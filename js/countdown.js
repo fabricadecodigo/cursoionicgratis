@@ -4,7 +4,8 @@
 
         start: function (options) {
             var _this = this;
-            var endtime = new Date(2017, 4, 30, 22, 0, 0);
+            // Enddate is 01/05/2017 at 22:00:00hrs - Brazilian
+            var endtime = new Date(2017, 4, 1, 22, 0, 0);
             var clock = $(options.id);
 
             var days = clock.find('.days');
