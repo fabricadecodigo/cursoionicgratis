@@ -1,4 +1,4 @@
-# cursoionicgratis
-Mini curso gratuito sobre Ionic Framework
+# Minicurso Ionic
+Esse minicursou mudou para outro repositório
 
-Saiba mais no site: http://www.fabricadecodigo.com/minicursoionic
+Saiba mais no site: http://www.fabricadecodigo.com/minicursoionicframework
